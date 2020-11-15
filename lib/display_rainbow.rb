@@ -1,3 +1,5 @@
+Rainbow colors= [red, green, blue, yellow, indigo, violet]
+
 R= "red"
 G= "green"
 B= "blue"
